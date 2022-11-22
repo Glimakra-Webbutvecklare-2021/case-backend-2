@@ -8,7 +8,7 @@ I detta caset ska ni göra en CRUD webbapplikation med användare och minst en r
 
 ## Krav
 
-### Design
+### Design minimum
 * Low fidelity designskiss
 * Mobile first
 
@@ -16,7 +16,7 @@ I detta caset ska ni göra en CRUD webbapplikation med användare och minst en r
 * Logotyp
 * Färgtema
 
-### 1. Minimum
+### Code minimum
 * En README.md i gitrepot med följande delar:
     * Introduction: Vad gör er app och vilket problem löser det?
     * Requirements & Installation: Vad behövs för att man själv ska kunna köra appen?
@@ -33,7 +33,7 @@ I detta caset ska ni göra en CRUD webbapplikation med användare och minst en r
     * Inloggning ska visa "Successfully logged in" vid redirect
     * Felaktig inloggning ska visa "Logged in failed" vid redirect
 
-### 2. Extra
+### Code Extra
 * Publicerad via Linode eller motsvarade
 * Det ska vara möjligt att sätta Likes på publika [Resurs]
 * Det ska vara möjligt att kommentera på publika [Resurs]
