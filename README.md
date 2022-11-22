@@ -28,7 +28,7 @@ I detta caset ska ni göra en CRUD webbapplikation med användare och minst en r
 * [Resurs] ska kunna göras privat eller publik av ägare. 
 * Alla publika [Resurs] ska finnas listade för en inloggad användare
     * Privat Resurs ska endast synas för ägare
-* Statusmeddelande från servern vid redirect ska visas med flash-meddelande. Exempelvis:
+* Statusmeddelande från servern vid redirect ska visas med flash-meddelande eller query strings. Exempelvis:
     * Skapande av resurs ska visa "Successfully created" vid redirect
     * Inloggning ska visa "Successfully logged in" vid redirect
     * Felaktig inloggning ska visa "Logged in failed" vid redirect
