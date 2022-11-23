@@ -28,7 +28,7 @@ I detta caset ska ni göra en CRUD webbapplikation med användare och minst en r
 * [Resurs] ska kunna göras privat eller publik av ägare. 
 * Alla publika [Resurs] ska finnas listade för en inloggad användare
     * Privat Resurs ska endast synas för ägare
-* Statusmeddelande från servern vid redirect ska visas med flash-meddelande eller query strings. Exempelvis:
+* Statusmeddelande från servern vid redirect ska visas med flash-meddelande eller query strings. Svarar servern med en json response ska klienten visa meddelandet asynkront. Exempelvis:
     * Skapande av resurs ska visa "Successfully created" vid redirect
     * Inloggning ska visa "Successfully logged in" vid redirect
     * Felaktig inloggning ska visa "Logged in failed" vid redirect
@@ -37,6 +37,7 @@ I detta caset ska ni göra en CRUD webbapplikation med användare och minst en r
 * Publicerad via Linode eller motsvarade
 * Det ska vara möjligt att sätta Likes på publika [Resurs]
 * Det ska vara möjligt att kommentera på publika [Resurs]
+* När någon besöker sidan första gången ska användaren få ett meddelande om att cookies används på webbplatsen. Användare ska kunna bekräfta informationen - se https://gdpr.eu/cookies/
 
 ## Feedback
 Veckan efter presentation kommer feedback ges under följande rubriker:
