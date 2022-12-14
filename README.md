@@ -1,4 +1,4 @@
-# Case: Webbapplikation med inloggnig
+# Case: Webbapplikation med autentisering
 I detta caset ska ni göra en CRUD webbapplikation med användare och minst en resurs. Ni har frihet att välja vad applikationen ska hantera. Några exempel är följande:
 
 - Online Receptbook (resurs: Recept)
